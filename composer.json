@@ -1,0 +1,11 @@
+{
+    "name": "shizu/composer",
+    "description": "For the quest",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "require": {
+    }
+}
